@@ -1,26 +1,42 @@
-## olá
+# 👋 Olá, eu sou o Marcos!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbinoti&layout=compact)](https://github.com/mbinoti/github-readme-stats)
+Sou desenvolvedor apaixonado por criar soluções modernas com **Flutter**, **Dart**, e outras tecnologias. Estou sempre explorando novas ferramentas e práticas como arquitetura limpa, testes automatizados e design de interfaces eficazes.
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marcosbinoti/)
+---
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+## 🛠️ Tecnologias & Ferramentas
 
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
-<!--
-**mbinoti/mbinoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mbinoti&show_icons=true&theme=tokyonight)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mbinoti&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 Projetos em Destaque
+
+- [**gorouter-demo**](https://github.com/marcos/gorouter-demo) – Navegação de telas no Flutter com GoRouter  
+- [**app-ecommerce-nativo**](https://github.com/marcos/app-ecommerce-nativo) – App de e-commerce usando ValueNotifier
+
+---
+
+## 🌐 Contato
+
+- 📫 Email: [mbinoti@gmail.com](mailto:mbinoti@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/seu-link-aqui)
+- 💻 [GitHub](https://github.com/marcos)
+
+---
+
+🦈 Avatar por: Sharky Dev Avatar
