@@ -1,42 +1,64 @@
-# 👋 Olá, eu sou o Marcos!
+<div align="center">
 
-Sou desenvolvedor apaixonado por criar soluções modernas com **Flutter**, **Dart**, e outras tecnologias. Estou sempre explorando novas ferramentas e práticas como arquitetura limpa, testes automatizados e design de interfaces eficazes.
+# Marcos
 
----
+### Desenvolvedor Flutter & Dart
 
-## 🛠️ Tecnologias & Ferramentas
+Construo aplicações mobile para Android e iOS com foco em arquitetura,
+experiência nativa, integração com APIs e código testável.
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-mbinoti-181717?style=flat-square&logo=github)](https://github.com/mbinoti)
+[![Email](https://img.shields.io/badge/Email-mbinoti%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mbinoti@gmail.com)
 
----
+</div>
 
-## 📈 GitHub Stats
+## Sobre mim
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mbinoti&show_icons=true&theme=tokyonight)
+- Desenvolvimento de aplicações multiplataforma com **Flutter e Dart**.
+- Interfaces adaptativas com **Material Design 3 e Cupertino**.
+- Organização de código com separação entre apresentação, domínio e dados.
+- Integração com **APIs REST**, persistência local e tratamento de estados assíncronos.
+- Qualidade apoiada por análise estática, testes unitários e testes de widgets.
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mbinoti&layout=compact&theme=tokyonight)
+## Stack principal
 
----
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## 🚀 Projetos em Destaque
+`Provider` · `BLoC/Cubit` · `go_router` · `Dio` · `SharedPreferences` · `Testes automatizados`
 
-- [**gorouter-demo**](https://github.com/marcos/gorouter-demo) – Navegação de telas no Flutter com GoRouter  
-- [**app-ecommerce-nativo**](https://github.com/marcos/app-ecommerce-nativo) – App de e-commerce usando ValueNotifier
+## Projetos em destaque
 
----
+### [NewsFlow](https://github.com/mbinoti/newsflow)
 
-## 🌐 Contato
+Aplicativo de notícias com experiência adaptativa para Android e iOS, pesquisa,
+paginação, favoritos offline e preferências persistentes.
 
-- 📫 Email: [mbinoti@gmail.com](mailto:mbinoti@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/seu-link-aqui)
-- 💻 [GitHub](https://github.com/marcos)
+**Destaques técnicos:** arquitetura por features, Provider, Dio, go_router,
+tratamento de falhas de rede, estados assíncronos e testes automatizados.
 
----
+### [Eventos App](https://github.com/mbinoti/eventos_app)
 
-🦈 Avatar por: Sharky Dev Avatar
+Aplicação Flutter voltada à organização e apresentação de eventos.
+
+### [Mercado Fácil](https://github.com/mbinoti/mercado_facil)
+
+Aplicativo Flutter para apoiar a organização de compras e itens de mercado.
+
+## O que você encontra por aqui
+
+Projetos práticos sobre desenvolvimento mobile, gerenciamento de estado,
+navegação, consumo de APIs, persistência de dados e construção de interfaces
+para diferentes plataformas.
+
+## Contato
+
+Estou aberto a oportunidades, colaboração em projetos e troca de experiências
+sobre desenvolvimento Flutter.
+
+- Email: [mbinoti@gmail.com](mailto:mbinoti@gmail.com)
+- GitHub: [github.com/mbinoti](https://github.com/mbinoti)
