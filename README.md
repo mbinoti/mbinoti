@@ -29,7 +29,7 @@ experiência nativa, integração com APIs e código testável.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-`Provider` · `BLoC/Cubit` · `go_router` · `Dio` · `SharedPreferences` · `Testes automatizados`
+`Provider` · `BLoC/Cubit` · `Testes automatizados`
 
 ## Projetos em destaque
 
